@@ -22,7 +22,7 @@ for (const property in wildy238) {
 ### 📊 My Github Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wildy238&show_icons=true&theme=transparent" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy238&layout=compact&show_icons=true&theme=transparent" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy238&layout=compact&theme=transparent" height="165" />
 </div>
 
 ### 📫 How to reach me
