@@ -2,7 +2,7 @@
 
 ### 🖥️ Little more about me  
 ```javascript
-const wildy238 = {
+const wildy283 = {
     Pronouns: 'he/him',
     Languages: ['PHP', 'Python', 'JavaScript', 'Golang', 'Bash'],
     Tools: ['Laravel', 'Codenighter', 'Flask', 'Django', 'Express', 'Gin', 'Bootstrap', 'Tailwind_CSS'],
@@ -12,23 +12,23 @@ const wildy238 = {
     Target: "Deliver clean and efficient code",
 }
 
-for (const property in wildy238) {
-    if (Object.prototype.hasOwnProperty.call(wildy238, property)) {
-        console.log(`${property}: ${wildy238[property]}`);
+for (const property in wildy283) {
+    if (Object.prototype.hasOwnProperty.call(wildy283, property)) {
+        console.log(`${property}: ${wildy283[property]}`);
     }
 }
 ```
 
 ### 📊 My Github Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wildy238&show_icons=true&theme=transparent" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy238&layout=compact&theme=transparent&langs_count=12" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=wildy283&show_icons=true&theme=transparent" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy283&layout=compact&theme=transparent&langs_count=12" height="165"/>
 </div>
 
 ### 📫 How to reach me
-- Email: admin@wildy.us
+- Email: admin@wildy.id
 - Telegram: https://t.me/wildysheverando
-- WhatsApp: https://wa.me/62895329233285
-- Instagram: https://instagram.com/wildy238
+- WhatsApp: https://wa.me/6285175038283
+- Instagram: https://instagram.com/wildy283
 
 ---
