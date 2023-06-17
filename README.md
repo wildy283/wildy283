@@ -21,8 +21,8 @@ for (const property in wildy283) {
 
 ### 📊 My Github Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wildy283&show_icons=true&theme=transparent" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy283&layout=compact&theme=transparent&langs_count=12" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=wildy283&show_icons=true&theme=transparent" height="230"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy283&layout=compact&theme=transparent&langs_count=12" height="230"/>
 </div>
 
 ### 📫 How to reach me
